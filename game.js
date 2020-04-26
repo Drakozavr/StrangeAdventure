@@ -98,7 +98,7 @@ const textNodes = [
   {
     id: 3,
     text:
-      "You wandered around the city a little more. Quiet streets, low buildings and a frightening castle right at the exit of the town. After your strange awakening, you feel headache and tiredness.",
+      "You wandered around the city a little more. Quiet streets, low buildings and a frightening castle towering over the town. After your strange awakening, you feel headache and tired.",
     //answers
     options: [
       {
@@ -119,7 +119,7 @@ const textNodes = [
   {
     id: 4,
     text:
-      "You feel very tired, the pain in your head just became unbearable, at some point you lost consciousness while exploring the castle. Lying on the dirty floor, you didn’t see a smelly monster bite your head off. You die the same second.",
+      "You feel very tired, the pain in your head just became unbearable, at some point you lost consciousness while exploring the castle. Lying on the dirty floor, you didn’t see a smelly monster bite your head off. You die the same moment.",
     //answers
     options: [
       {
@@ -132,7 +132,7 @@ const textNodes = [
   {
     id: 5,
     text:
-      "You don't have money to pay for the room. So you wander around the city until evening. When it's dark you enter the nearest inn and break the lock to one of the rooms. You sleep on the bed for several hours until the tavern owner discovers you. He calls the town guards and they throw you into cell.",
+      "You don't have money to pay for the room. So you wander around the town until evening. When it's dark you enter the nearest inn and break the lock to one of the rooms. You sleep on the bed for several hours until the tavern owner discovers you. He calls the town guards and they throw you into cell.",
     //answers
     options: [
       {
