@@ -119,7 +119,7 @@ const textNodes = [
   {
     id: 4,
     text:
-      "You feel very tired, the pain in your head just became unbearable, at some point you simply lost consciousness while exploring the castle. Lying on the dirty floor, you didn’t see a smelly monster bite your head off. You die the same second.",
+      "You feel very tired, the pain in your head just became unbearable, at some point you lost consciousness while exploring the castle. Lying on the dirty floor, you didn’t see a smelly monster bite your head off. You die the same second.",
     //answers
     options: [
       {
